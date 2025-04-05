@@ -15,3 +15,6 @@ You must follow a Test-Driven Development (TDD) approach while building this fun
 - Share your written test cases with your mentor during the daily meeting for review and feedback.
 Once approved, begin implementing the logic of the IPv4 checker function step by step, ensuring that each test passes.
 - Upon successful implementation, design a complete flowchart to represent the decision-making logic of the function using draw.io.
+
+
+![IpFlowChar](https://github.com/user-attachments/assets/8ca6b5c2-db6f-4200-a48f-04b4a7283b82)
